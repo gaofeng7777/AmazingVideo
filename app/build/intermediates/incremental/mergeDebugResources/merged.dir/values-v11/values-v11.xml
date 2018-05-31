@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="theme_version">
+        <item>0</item> <!-- THEME_MUSIC_ASSETS MusicAssets.zip-->
+        <item>0</item> <!-- THEME_EMPTY Empty.zip-->
+        <item>1</item> <!-- THEME_VIDEO_COMMON Common.zip-->
+        <item>0</item> <!-- THEME_FILTER_ASSETS FilterAssets.zip-->
+        <item>1</item> <!-- THEME_MUSIC_VIDEO_ASSETS MusicVideoAssets.zip-->
+    </integer-array>
+    <color name="background_dark">#f0f0f0</color>
+    <color name="black">#000</color>
+    <color name="blue">#ff0f81d9</color>
+    <color name="camera_bg">#2c2c2c</color>
+    <color name="camera_bottom_press_bg">#1b1c1f</color>
+    <color name="camera_progress">#2980B9</color>
+    <color name="camera_progress_delete">#f68b2b</color>
+    <color name="camera_progress_overflow">#1b5d89</color>
+    <color name="camera_progress_split">#005084</color>
+    <color name="camera_progress_three">#24ff00</color>
+    <color name="camera_theme_selected_bgcolor">#2980B9</color>
+    <color name="cyan">#66ffffff</color>
+    <color name="darkgray">#404040ff</color>
+    <color name="gray">#ff666666</color>
+    <color name="green">#0ff0ff</color>
+    <color name="lightgray">#c0c0c0ff</color>
+    <color name="magenta">#ff6699ff</color>
+    <color name="red">#FF0000</color>
+    <color name="text_gray2">#ffC3C3C3</color>
+    <color name="title_background_color">#e95646</color>
+    <color name="translucent_background_50">#7f000000</color>
+    <color name="translucent_background_80">#CC000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black">#ff000000</color>
+    <color name="transparent_black_30">#4D000000</color>
+    <color name="transparent_black_40">#66000000</color>
+    <color name="transparent_black_85">#DA000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffFF33ff</color>
+    <drawable name="cover_track">#64000000</drawable>
+    <drawable name="gray">#c3c3c3</drawable>
+    <drawable name="import_folder_item_pressed">#434345</drawable>
+    <drawable name="music_item_bg_normal">#252527</drawable>
+    <drawable name="music_item_bg_selected">#000000</drawable>
+    <drawable name="progress_background_color">#c3c3c3</drawable>
+    <drawable name="record_camera_bg">#2c2c2c</drawable>
+    <drawable name="record_camera_progress">#fcb840</drawable>
+    <drawable name="record_camera_progress_error">#929292</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="video_edit_tab_bg_color">#1E1E1E</drawable>
+    <drawable name="weibo_call_share_weibo_text_normal">#F2F2F2</drawable>
+    <drawable name="weibo_call_share_weibo_text_press">#E5E5E5</drawable>
+    <drawable name="white">#ffffff</drawable>
+    <string name="action_back">Back</string>
+    <string name="action_cancel">cancel</string>
+    <string name="action_ok">ok</string>
+    <string name="dialog_no">no</string>
+    <string name="dialog_yes">yes</string>
+    <string name="hint">Hint</string>
+    <string name="imageview_content_description"/>
+    <string name="record_camera_author">%1$s Amazing Video</string>
+    <string name="record_camera_back">Back</string>
+    <string name="record_camera_back_delete">back to delete</string>
+    <string name="record_camera_cancel_dialog_no">no</string>
+    <string name="record_camera_cancel_dialog_yes">yes</string>
+    <string name="record_camera_check_available_faild">Phone storage space is full! At least 200 MB of storage space is needed to continue filming!</string>
+    <string name="record_camera_delay">delay</string>
+    <string name="record_camera_exit_dialog_message">Whether to give up this period of video?</string>
+    <string name="record_camera_filter">filter</string>
+    <string name="record_camera_ghost">ghost</string>
+    <string name="record_camera_import">The import</string>
+    <string name="record_camera_import_image">photo</string>
+    <string name="record_camera_import_image_choose">Choose from a local pictures</string>
+    <string name="record_camera_import_image_faild">Import photos failure</string>
+    <string name="record_camera_import_video">video</string>
+    <string name="record_camera_import_video_choose">From the local video option</string>
+    <string name="record_camera_import_video_faild">Import video failure</string>
+    <string name="record_camera_import_video_title">intercept</string>
+    <string name="record_camera_init_faild">Initializes the video store path failure</string>
+    <string name="record_camera_next">Next</string>
+    <string name="record_camera_open_audio_faild">Unable to open the recording equipment.</string>
+    <string name="record_camera_preview_next">Next</string>
+    <string name="record_camera_preview_pre">filming</string>
+    <string name="record_camera_preview_title">Editor</string>
+    <string name="record_camera_progress_message">Is transcoding...</string>
+    <string name="record_camera_save_faild">Video information save failed!</string>
+    <string name="record_camera_title">filming</string>
+    <string name="record_camera_tools_focus">focus</string>
+    <string name="record_camera_tools_led">led</string>
+    <string name="record_preview_building">Generate video…</string>
+    <string name="record_preview_encoding">Is transcoding...</string>
+    <string name="record_preview_encoding_format">Is transcoding\t%d%%</string>
+    <string name="record_preview_music_nothing">nothing</string>
+    <string name="record_preview_tab_filter">Filter</string>
+    <string name="record_preview_tab_theme">Theme</string>
+    <string name="record_preview_theme">theme</string>
+    <string name="record_preview_theme_load_faild">theme to load failure</string>
+    <string name="record_preview_theme_original">original</string>
+    <string name="record_preview_title">preview</string>
+    <string name="record_read_object_faild">Shooting information read failure! Please check the SD card, try again later!</string>
+    <string name="record_video_transcoding_faild">Video transcoding fails</string>
+    <string name="record_video_transcoding_success">The video is saved in the:%s</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="CameraTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+    <style name="RecordThemeStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">2dip</item>
+        <item name="android:padding">2dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:layout_marginLeft">10dip</item>
+    </style>
+    <style name="TitleStyleCenter">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">4dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:gravity">center</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TitleStyleRight">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">50dip</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:drawablePadding">11dip</item>
+    </style>
+    <style name="VideoEditTabStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@drawable/amazing_video_edit_text_color_selector</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/amazing_edit_tab_selector</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+</resources>

@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_flash_led_off_disable.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_flash_led_off_disable.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_priview_orig_volumn_close.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\priview_orig_volumn_close.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_priview_orig_volumn_open.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\priview_orig_volumn_open.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_include_tilte_record.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_include_tilte_record.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\VitamioRecorder\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_play_big.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\play_big.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_orig_volumn_selector.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_orig_volumn_selector.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_preview_music_original.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\preview_music_original.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\xml_analytics.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\xml\\analytics.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_uploader_dialog_bg.9.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\uploader_dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_controller_seletor.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_controller_seletor.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\VitamioRecorder\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_toast_tip_bg.9.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\toast_tip_bg.9.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim_amazing_push_up_out.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\anim\\amazing_push_up_out.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_next_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_next_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_flash_led_on_disable.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_flash_led_on_disable.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_activity_video_player.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_activity_video_player.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_delete_press.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_delete_press.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_priview_theme_volumn_open.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\priview_theme_volumn_open.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_delete_selector.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_delete_selector.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim_amazing_push_bottom_out.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\anim\\amazing_push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_priview_orig_volumn_open.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\priview_orig_volumn_open.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_preview_music_original.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\preview_music_original.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_delete_check_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_delete_check_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_toast_layout.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_toast_layout.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_priview_theme_volumn_close.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\priview_theme_volumn_close.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_flash_led_on_pressed.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_flash_led_on_pressed.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_selector_bg.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_selector_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_record_delete_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\record_delete_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_record_theme_selected.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\record_theme_selected.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_flash_led_off_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_flash_led_off_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_theme_square_selected.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_theme_square_selected.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_delete_check_press.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_delete_check_press.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\VitamioRecorder\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_priview_theme_volumn_open.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\priview_theme_volumn_open.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim_amazing_push_up_in.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\anim\\amazing_push_up_in.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_menu_record_import.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_menu_record_import.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_preview_music_bg.9.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\preview_music_bg.9.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_delete_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_delete_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_title_text_right.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\title_text_right.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_video_focus.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\video_focus.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_preview_music_theme_disable.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\preview_music_theme_disable.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_flash_led_on_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_flash_led_on_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_switch_pressed.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_switch_pressed.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_priview_orig_volumn_close.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\priview_orig_volumn_close.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_title_text_left.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\title_text_left.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_camera_switch_selector.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_camera_switch_selector.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_preview_music_theme.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\preview_music_theme.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_save.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\save.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_view_radio_item.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_view_radio_item.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_back.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_back.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_camera_flash_led_selector.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_camera_flash_led_selector.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_record_delete_check_press.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\record_delete_check_press.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_switch_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_switch_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_cancel_press.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_cancel_press.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_priview_theme_volumn_close.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\priview_theme_volumn_close.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_record_delete_check_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\record_delete_check_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_view_theme_item.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_view_theme_item.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_cancel_seletor.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_cancel_seletor.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_video_edit_tab_selected_bg.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\video_edit_tab_selected_bg.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_controller_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_controller_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_controller_press.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_controller_press.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_setting_item_selector.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_setting_item_selector.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_preview_music_theme_disable.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\preview_music_theme_disable.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_activity_import_video.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_activity_import_video.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim_amazing_push_bottom_in.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\anim\\amazing_push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_cancel_normal.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_cancel_normal.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_video_edit_tab_split_line.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\video_edit_tab_split_line.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_record_delete_press.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\record_delete_press.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_save.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\save.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_activity_media_preview.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_activity_media_preview.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_theme_volumn_selector.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_theme_volumn_selector.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_theme_selected.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_theme_selected.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_video_edit_text_color_selector.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_video_edit_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_movie_recorder_view.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_movie_recorder_view.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_preview_music_original_disable.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\preview_music_original_disable.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_video_focus.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\video_focus.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout_amazing_contact_item.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\layout\\amazing_contact_item.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_next_press.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_next_press.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim_amazing_record_focus.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\anim\\amazing_record_focus.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_switch_disable.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_switch_disable.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_preview_music_theme.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\preview_music_theme.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_next_seletor.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_next_seletor.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play_big.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\play_big.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazing_edit_tab_selector.xml.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable\\amazing_edit_tab_selector.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_record_theme_square_selected.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xxhdpi\\record_theme_square_selected.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_title_text_right.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\title_text_right.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_title_text_left.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\title_text_left.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_preview_music_original_disable.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\preview_music_original_disable.png"
+    },
+    {
+        "merged": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_record_camera_flash_led_off_pressed.png.flat",
+        "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\drawable-xhdpi\\record_camera_flash_led_off_pressed.png"
+    }
+]

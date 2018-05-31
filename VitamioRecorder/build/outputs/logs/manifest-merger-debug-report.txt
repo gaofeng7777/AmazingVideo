@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:2:5-31
+		INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml
+		INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:4:5-30
+		INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml
+		INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:3:5-28
+		INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml
+		INJECTED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml
+uses-sdk
+ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:8:9-38
+	android:minSdkVersion
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:7:9-34
+application
+ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:10:5-15:19
+	android:label
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\AndroidManifest.xml:14:9-40

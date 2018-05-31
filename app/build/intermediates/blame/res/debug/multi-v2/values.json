@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "15,4,7,5,14,6,9,10,11,3,13",
+                        "startColumns": "4,4,4,4,4,5,6,1,1,1,1",
+                        "startOffsets": "533,107,231,149,492,193,291,334,379,66,444",
+                        "endColumns": "43,41,40,42,40,38,47,44,45,36,44",
+                        "endOffsets": "572,144,267,187,528,226,332,377,423,101,487"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "682,726,768,809,852,893,931,977,1025,1074,1114",
+                        "endColumns": "43,41,40,42,40,37,45,47,48,39,47",
+                        "endOffsets": "721,763,804,847,888,926,972,1020,1069,1109,1157"
+                    }
+                },
+                {
+                    "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "3,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "71,428",
+                        "endLines": "14,25",
+                        "endColumns": "19,19",
+                        "endOffsets": "407,709"
+                    },
+                    "to": {
+                        "startLines": "2,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,396",
+                        "endLines": "13,23",
+                        "endColumns": "19,19",
+                        "endOffsets": "391,677"
+                    }
+                },
+                {
+                    "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1,5,58,49,28,41,20,10,15",
+                        "startColumns": "4,4,4,6,4,5,4,1,4",
+                        "startOffsets": "75,182,2776,2330,1246,1931,909,445,684",
+                        "endLines": "2,9,70,57,40,48,26,14,19",
+                        "endColumns": "12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "144,443,3434,2771,1925,2323,1238,679,904"
+                    },
+                    "to": {
+                        "startLines": "67,69,74,87,96,109,117,124,129",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3361,3435,3701,4364,4810,5494,5891,6225,6464",
+                        "endLines": "68,73,86,95,108,116,123,128,133",
+                        "endColumns": "12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "3430,3696,4359,4805,5489,5886,6220,6459,6684"
+                    }
+                },
+                {
+                    "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,9,3,8,4,6",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "160,310,56,253,107,213",
+                        "endColumns": "52,39,50,56,52,38",
+                        "endOffsets": "208,345,102,305,155,247"
+                    },
+                    "to": {
+                        "startLines": "61,62,63,64,65,66",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "3084,3137,3169,3220,3277,3330",
+                        "endColumns": "52,31,50,56,52,30",
+                        "endOffsets": "3132,3164,3215,3272,3325,3356"
+                    }
+                },
+                {
+                    "source": "D:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "59,60",
+                        "startColumns": "4,4",
+                        "startOffsets": "2970,3028",
+                        "endColumns": "57,55",
+                        "endOffsets": "3023,3079"
+                    }
+                }
+            ]
+        }
+    ]
+}

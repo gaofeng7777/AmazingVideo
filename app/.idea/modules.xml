@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../VitamioRecorderLibrary/VitamioRecorderLibrary.iml" filepath="$PROJECT_DIR$/../VitamioRecorderLibrary/VitamioRecorderLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaapk.com-VCameraDemo.iml" filepath="$PROJECT_DIR$/javaapk.com-VCameraDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace_10_18.iml" filepath="$PROJECT_DIR$/../workspace_10_18.iml" />
+    </modules>
+  </component>
+</project>

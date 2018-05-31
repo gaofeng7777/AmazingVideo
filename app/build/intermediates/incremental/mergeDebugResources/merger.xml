@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":VitamioRecorder$Generated" generated="true"><source path="D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\build\intermediates\packaged_res\debug"/></dataSet><dataSet config=":VitamioRecorder" from-dependency="true" generated-set=":VitamioRecorder$Generated"><source path="D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\build\intermediates\packaged_res\debug"><file name="ic_launcher" path="D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\build\intermediates\packaged_res\debug\drawable-hdpi-v4\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\build\intermediates\packaged_res\debug\drawable-mdpi-v4\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\build\intermediates\packaged_res\debug\drawable-xhdpi-v4\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\build\intermediates\packaged_res\debug\values\values.xml" qualifiers=""><string name="app_name">VCameraLibrary</string><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\VitamioRecorder\build\intermediates\packaged_res\debug\values-v11\values-v11.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file></source></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res"/><source path="D:\studio_workspace10_8\beifende\AmazingVideo\app\build\generated\res\rs\debug"/><source path="D:\studio_workspace10_8\beifende\AmazingVideo\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res"><file name="amazing_push_bottom_in" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\anim\amazing_push_bottom_in.xml" qualifiers="" type="anim"/><file name="amazing_push_bottom_out" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\anim\amazing_push_bottom_out.xml" qualifiers="" type="anim"/><file name="amazing_push_up_in" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\anim\amazing_push_up_in.xml" qualifiers="" type="anim"/><file name="amazing_push_up_out" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\anim\amazing_push_up_out.xml" qualifiers="" type="anim"/><file name="amazing_record_focus" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\anim\amazing_record_focus.xml" qualifiers="" type="anim"/><file name="amazing_camera_flash_led_selector" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_camera_flash_led_selector.xml" qualifiers="" type="drawable"/><file name="amazing_camera_switch_selector" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_camera_switch_selector.xml" qualifiers="" type="drawable"/><file name="amazing_cancel_seletor" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_cancel_seletor.xml" qualifiers="" type="drawable"/><file name="amazing_controller_seletor" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_controller_seletor.xml" qualifiers="" type="drawable"/><file name="amazing_delete_selector" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_delete_selector.xml" qualifiers="" type="drawable"/><file name="amazing_edit_tab_selector" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_edit_tab_selector.xml" qualifiers="" type="drawable"/><file name="amazing_next_seletor" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_next_seletor.xml" qualifiers="" type="drawable"/><file name="amazing_orig_volumn_selector" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_orig_volumn_selector.xml" qualifiers="" type="drawable"/><file name="amazing_selector_bg" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_selector_bg.xml" qualifiers="" type="drawable"/><file name="amazing_setting_item_selector" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_setting_item_selector.xml" qualifiers="" type="drawable"/><file name="amazing_theme_volumn_selector" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_theme_volumn_selector.xml" qualifiers="" type="drawable"/><file name="amazing_video_edit_text_color_selector" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\amazing_video_edit_text_color_selector.xml" qualifiers="" type="drawable"/><file name="btn_bg" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable\btn_bg.xml" qualifiers="" type="drawable"/><file name="play_big" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\play_big.png" qualifiers="xhdpi-v4" type="drawable"/><file name="preview_music_bg" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\preview_music_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="preview_music_original" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\preview_music_original.png" qualifiers="xhdpi-v4" type="drawable"/><file name="preview_music_original_disable" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\preview_music_original_disable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="preview_music_theme" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\preview_music_theme.png" qualifiers="xhdpi-v4" type="drawable"/><file name="preview_music_theme_disable" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\preview_music_theme_disable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="priview_orig_volumn_close" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\priview_orig_volumn_close.png" qualifiers="xhdpi-v4" type="drawable"/><file name="priview_orig_volumn_open" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\priview_orig_volumn_open.png" qualifiers="xhdpi-v4" type="drawable"/><file name="priview_theme_volumn_close" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\priview_theme_volumn_close.png" qualifiers="xhdpi-v4" type="drawable"/><file name="priview_theme_volumn_open" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\priview_theme_volumn_open.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_back" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_back.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_flash_led_off_disable" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_flash_led_off_disable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_flash_led_off_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_flash_led_off_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_flash_led_off_pressed" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_flash_led_off_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_flash_led_on_disable" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_flash_led_on_disable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_flash_led_on_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_flash_led_on_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_flash_led_on_pressed" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_flash_led_on_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_switch_disable" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_switch_disable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_switch_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_switch_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_camera_switch_pressed" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_camera_switch_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_cancel_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_cancel_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_cancel_press" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_cancel_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_controller_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_controller_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_controller_press" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_controller_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_delete_check_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_delete_check_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_delete_check_press" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_delete_check_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_delete_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_delete_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_delete_press" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_delete_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_next_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_next_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_next_press" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_next_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_theme_selected" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_theme_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_theme_square_selected" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\record_theme_square_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="save" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\save.png" qualifiers="xhdpi-v4" type="drawable"/><file name="title_text_left" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\title_text_left.png" qualifiers="xhdpi-v4" type="drawable"/><file name="title_text_right" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\title_text_right.png" qualifiers="xhdpi-v4" type="drawable"/><file name="toast_tip_bg" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\toast_tip_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="uploader_dialog_bg" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\uploader_dialog_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_edit_tab_selected_bg" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\video_edit_tab_selected_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_edit_tab_split_line" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\video_edit_tab_split_line.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_focus" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xhdpi\video_focus.png" qualifiers="xhdpi-v4" type="drawable"/><file name="play_big" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\play_big.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="preview_music_original" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\preview_music_original.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="preview_music_original_disable" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\preview_music_original_disable.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="preview_music_theme" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\preview_music_theme.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="preview_music_theme_disable" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\preview_music_theme_disable.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="priview_orig_volumn_close" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\priview_orig_volumn_close.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="priview_orig_volumn_open" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\priview_orig_volumn_open.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="priview_theme_volumn_close" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\priview_theme_volumn_close.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="priview_theme_volumn_open" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\priview_theme_volumn_open.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="record_delete_check_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\record_delete_check_normal.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="record_delete_check_press" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\record_delete_check_press.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="record_delete_normal" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\record_delete_normal.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="record_delete_press" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\record_delete_press.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="record_theme_selected" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\record_theme_selected.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="record_theme_square_selected" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\record_theme_square_selected.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="save" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\save.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="title_text_left" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\title_text_left.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="title_text_right" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\title_text_right.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="video_focus" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\drawable-xxhdpi\video_focus.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="amazing_activity_import_video" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_activity_import_video.xml" qualifiers="" type="layout"/><file name="amazing_activity_media_preview" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_activity_media_preview.xml" qualifiers="" type="layout"/><file name="amazing_activity_video_player" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_activity_video_player.xml" qualifiers="" type="layout"/><file name="amazing_contact_item" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_contact_item.xml" qualifiers="" type="layout"/><file name="amazing_include_tilte_record" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_include_tilte_record.xml" qualifiers="" type="layout"/><file name="amazing_menu_record_import" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_menu_record_import.xml" qualifiers="" type="layout"/><file name="amazing_movie_recorder_view" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_movie_recorder_view.xml" qualifiers="" type="layout"/><file name="amazing_toast_layout" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_toast_layout.xml" qualifiers="" type="layout"/><file name="amazing_view_radio_item" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_view_radio_item.xml" qualifiers="" type="layout"/><file name="amazing_view_theme_item" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\layout\amazing_view_theme_item.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values\arrays.xml" qualifiers=""><string-array name="theme_filter_order">
+        <item>Empty</item>
+        <item>7AM</item>
+        <item>1974</item>
+        <item>Absinth</item>
+        <item>Stark</item>
+        <item>Papilio</item>
+        <item>Ice</item>
+        <item>Professional</item>
+        <item>Smoky</item>
+        <item>Stage</item>
+    </string-array><string-array name="theme_order">
+        <item>Shining</item>
+        <item>Dreamworld</item>
+        <item>Love</item>
+        <item>Fashion</item>
+        <item>SunShine</item>
+        <item>Magic</item>
+        <item>Hawaii</item>
+        <item>Pulse</item>
+    </string-array></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values\colors.xml" qualifiers=""><color name="white">#ffffff</color><color name="black">#ff000000</color><color name="black2">#ffeeeeee</color><color name="red">#FC2828</color><color name="black1">#7A7E83</color><color name="transgray">#33555555</color><color name="transparent">#00000000</color><color name="transparent2">#50000000</color><color name="windows_color">#F5F5F5</color><color name="greeny">#00CB0D</color><color name="bar_color">#232325</color></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values\movie_attrs.xml" qualifiers=""><declare-styleable name="MovieRecorderView">
+        
+        <attr format="boolean" name="is_open_camera"/>
+        
+        <attr format="integer" name="record_max_time"/>
+        
+        <attr format="integer" name="width"/>
+        
+        <attr format="integer" name="height"/>
+    </declare-styleable></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values\strings.xml" qualifiers=""><string name="app_name">Amazing Video</string><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="name_null"/><string name="facebook_app_id">341XXXXXXXXX</string><string name="ads_app_id"/></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+    </style><style name="AppTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+     
+        <item name="android:windowBackground">@color/windows_color</item>
+    </style><style name="img_Style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style><style name="txt_ContextStyle1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="TxtTitle" parent="@style/img_Style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:paddingLeft">6.0dip</item>
+        <item name="android:paddingRight">6.0dip</item>
+        <item name="android:focusable">false</item>
+    </style><style name="MMListCatalog">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff595c61</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/windows_color</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="MMListItem">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="MMFontTitleInList">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff595c61</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style><style name="MMFontTag">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+         <item name="android:paddingBottom">2dip</item>
+         <item name="android:paddingLeft">7dip</item>
+            <item name="android:paddingRight">7dip</item>
+          <item name="android:paddingTop">2dip</item>
+    </style></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values\swipelistview__attrs.xml" qualifiers=""><declare-styleable name="SwipeListView">
+        <attr format="boolean" name="swipeOpenOnLongPress"/>
+        <attr format="integer" name="swipeAnimationTime"/>
+        <attr format="dimension" name="swipeOffsetLeft"/>
+        <attr format="dimension" name="swipeOffsetRight"/>
+        <attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/>
+        <attr format="reference" name="swipeFrontView"/>
+        <attr format="reference" name="swipeBackView"/>
+        <attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+        <attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="reference" name="swipeDrawableChecked"/>
+        <attr format="reference" name="swipeDrawableUnchecked"/>
+    </declare-styleable></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values\swipe_attrs.xml" qualifiers=""><declare-styleable name="SwipeLayout">
+        <attr format="enum" name="drag_edge">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
+        <attr format="enum" name="show_mode">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values-v11\colors.xml" qualifiers="v11"><color name="darkgray">#404040ff</color><color name="black">#000</color><color name="red">#FF0000</color><color name="green">#0ff0ff</color><color name="lightgray">#c0c0c0ff</color><color name="white">#ffffffff</color><color name="yellow">#ffFF33ff</color><color name="blue">#ff0f81d9</color><color name="gray">#ff666666</color><color name="text_gray2">#ffC3C3C3</color><color name="magenta">#ff6699ff</color><color name="cyan">#66ffffff</color><color name="transparent">#00000000</color><color name="transparent_black">#ff000000</color><color name="background_dark">#f0f0f0</color><color name="camera_bg">#2c2c2c</color><color name="camera_progress">#2980B9</color><color name="camera_progress_split">#005084</color><color name="camera_progress_three">#24ff00</color><color name="camera_progress_overflow">#1b5d89</color><color name="camera_theme_selected_bgcolor">#2980B9</color><color name="camera_bottom_press_bg">#1b1c1f</color><color name="title_background_color">#e95646</color><color name="camera_progress_delete">#f68b2b</color><color name="translucent_background_80">#CC000000</color><color name="translucent_background_50">#7f000000</color><color name="transparent_black_40">#66000000</color><color name="transparent_black_85">#DA000000</color><color name="transparent_black_30">#4D000000</color></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values-v11\drawables.xml" qualifiers="v11"><drawable name="record_camera_bg">#2c2c2c</drawable><drawable name="record_camera_progress">#fcb840</drawable><drawable name="record_camera_progress_error">#929292</drawable><drawable name="transparent">#00000000</drawable><drawable name="weibo_call_share_weibo_text_normal">#F2F2F2</drawable><drawable name="weibo_call_share_weibo_text_press">#E5E5E5</drawable><drawable name="cover_track">#64000000</drawable><drawable name="white">#ffffff</drawable><drawable name="gray">#c3c3c3</drawable><drawable name="video_edit_tab_bg_color">#1E1E1E</drawable><drawable name="music_item_bg_normal">#252527</drawable><drawable name="music_item_bg_selected">#000000</drawable><drawable name="progress_background_color">#c3c3c3</drawable><drawable name="import_folder_item_pressed">#434345</drawable></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values-v11\integers.xml" qualifiers="v11"><integer-array name="theme_version">
+        <item>0</item> 
+        <item>0</item> 
+        <item>1</item> 
+        <item>0</item> 
+        <item>1</item> 
+    </integer-array></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values-v11\strings.xml" qualifiers="v11"><string name="hint">Hint</string><string name="dialog_yes">yes</string><string name="dialog_no">no</string><string name="action_back">Back</string><string name="action_cancel">cancel</string><string name="action_ok">ok</string><string name="imageview_content_description"/><string name="record_camera_author">%1$s Amazing Video</string><string name="record_camera_title">filming</string><string name="record_camera_back">Back</string><string name="record_camera_next">Next</string><string name="record_camera_back_delete">back to delete</string><string name="record_camera_delay">delay</string><string name="record_camera_filter">filter</string><string name="record_camera_init_faild">Initializes the video store path failure</string><string name="record_camera_progress_message">Is transcoding...</string><string name="record_camera_check_available_faild">Phone storage space is full! At least 200 MB of storage space is needed to continue filming!</string><string name="record_camera_open_audio_faild">Unable to open the recording equipment.</string><string name="record_camera_save_faild">Video information save failed!</string><string name="record_camera_exit_dialog_message">Whether to give up this period of video?</string><string name="record_camera_import">The import</string><string name="record_camera_import_image">photo</string><string name="record_camera_import_image_choose">Choose from a local pictures</string><string name="record_camera_import_image_faild">Import photos failure</string><string name="record_camera_import_video">video</string><string name="record_camera_import_video_title">intercept</string><string name="record_camera_import_video_choose">From the local video option</string><string name="record_camera_import_video_faild">Import video failure</string><string name="record_camera_tools_focus">focus</string><string name="record_camera_tools_led">led</string><string name="record_camera_ghost">ghost</string><string name="record_camera_preview_title">Editor</string><string name="record_camera_preview_pre">filming</string><string name="record_camera_preview_next">Next</string><string name="record_camera_cancel_dialog_yes">yes</string><string name="record_camera_cancel_dialog_no">no</string><string name="record_video_transcoding_faild">Video transcoding fails</string><string name="record_video_transcoding_success">The video is saved in the:%s</string><string name="record_read_object_faild">Shooting information read failure! Please check the SD card, try again later!</string><string name="record_preview_theme">theme</string><string name="record_preview_title">preview</string><string name="record_preview_theme_original">original</string><string name="record_preview_theme_load_faild">theme to load failure</string><string name="record_preview_encoding">Is transcoding...</string><string name="record_preview_encoding_format">Is transcoding\t%d%%</string><string name="record_preview_music_nothing">nothing</string><string name="record_preview_tab_theme">Theme</string><string name="record_preview_tab_filter">Filter</string><string name="record_preview_building">Generate video…</string></file><file path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+        
+    </style><style name="CameraTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style><style name="TitleStyleRight">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">50dip</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:drawablePadding">11dip</item>
+    </style><style name="TitleStyleCenter">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">4dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:gravity">center</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style><style name="RecordThemeStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">2dip</item>
+        <item name="android:padding">2dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:layout_marginLeft">10dip</item>
+    </style><style name="VideoEditTabStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@drawable/amazing_video_edit_text_color_selector</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/amazing_edit_tab_selector</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style></file><file name="analytics" path="D:\studio_workspace10_8\beifende\AmazingVideo\app\res\xml\analytics.xml" qualifiers="" type="xml"/></source><source path="D:\studio_workspace10_8\beifende\AmazingVideo\app\build\generated\res\rs\debug"/><source path="D:\studio_workspace10_8\beifende\AmazingVideo\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\studio_workspace10_8\beifende\AmazingVideo\app\build-types\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\studio_workspace10_8\beifende\AmazingVideo\app\build-types\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SwipeListView"><attr format="boolean" name="swipeOpenOnLongPress"/><attr format="integer" name="swipeAnimationTime"/><attr format="dimension" name="swipeOffsetLeft"/><attr format="dimension" name="swipeOffsetRight"/><attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/><attr format="reference" name="swipeFrontView"/><attr format="reference" name="swipeBackView"/><attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr><attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr><attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr><attr format="reference" name="swipeDrawableChecked"/><attr format="reference" name="swipeDrawableUnchecked"/></declare-styleable><declare-styleable name="MovieRecorderView"><attr format="boolean" name="is_open_camera"/><attr format="integer" name="record_max_time"/><attr format="integer" name="width"/><attr format="integer" name="height"/></declare-styleable><declare-styleable name="SwipeLayout"><attr format="enum" name="drag_edge">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr><attr format="enum" name="show_mode">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

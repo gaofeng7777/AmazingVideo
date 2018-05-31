@@ -1,0 +1,4 @@
+#Thu May 31 10:14:59 CST 2018
+base.0=D\:\\studio_workspace10_8\\beifende\\AmazingVideo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
